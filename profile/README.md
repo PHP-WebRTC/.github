@@ -1,4 +1,4 @@
-![Iran Protest](iran-p.jpeg)
+![Iran Protest](../iran-p.jpeg)
 
 ## What Happened in Iran
 
